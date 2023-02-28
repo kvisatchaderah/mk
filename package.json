@@ -27,5 +27,8 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "dependencies": {
+    "tsc": "^2.0.4"
+  }
 }
